@@ -21,7 +21,7 @@ const swagger = {
     },
     servers: [
       {
-        url: "http://localhost:3001/api",
+        url: "http://localhost:3002/api",
         description: "Local server",
       },
     ],
